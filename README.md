@@ -3,6 +3,22 @@
 My personal assistant panel: today's briefing, payments due, the Mac's health and what Pepper and the factories need
 from me. Local only, reachable from my phone through Tailscale. See `CLAUDE.md` for the rules the code follows.
 
+The screenshots use made-up data.
+
+**Hoy:** the briefing, what waits on me by urgency, and the agenda, wallet and work at the side.
+
+![Hoy on the Mac, light theme](docs/screenshots/today.png)
+
+<img src="docs/screenshots/today-phone.png" alt="Hoy on the phone, dark theme" width="320">
+
+**Cartera:** the IBKR account, its history and each position with its day move.
+
+![Cartera, dark theme](docs/screenshots/wallet.png)
+
+**Mac:** CPU, memory and disk now and over time, with alerts when something runs high.
+
+![Mac, light theme](docs/screenshots/mac.png)
+
 ## Run it
 
 ```bash
