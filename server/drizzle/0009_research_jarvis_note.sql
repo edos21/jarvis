@@ -1,0 +1,1 @@
+ALTER TABLE `research` ADD `jarvis_note` text;

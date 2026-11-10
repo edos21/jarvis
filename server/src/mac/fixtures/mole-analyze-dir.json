@@ -1,0 +1,82 @@
+{
+  "scan_status": "partial",
+  "path": "/Users/me/Library",
+  "overview": false,
+  "entries": [
+    {
+      "scan_status": "partial",
+      "name": "Containers",
+      "path": "/Users/me/Library/Containers",
+      "size": 126718630065,
+      "is_dir": true
+    },
+    {
+      "scan_status": "partial",
+      "name": "Application Support",
+      "path": "/Users/me/Library/Application Support",
+      "size": 99203208366,
+      "is_dir": true
+    },
+    {
+      "scan_status": "partial",
+      "name": "Caches",
+      "path": "/Users/me/Library/Caches",
+      "size": 12274831360,
+      "is_dir": true
+    },
+    {
+      "scan_status": "partial",
+      "name": "Group Containers",
+      "path": "/Users/me/Library/Group Containers",
+      "size": 7003378766,
+      "is_dir": true
+    },
+    {
+      "scan_status": "complete",
+      "name": "pnpm",
+      "path": "/Users/me/Library/pnpm",
+      "size": 616597558,
+      "is_dir": true
+    },
+    {
+      "scan_status": "complete",
+      "name": "Logs",
+      "path": "/Users/me/Library/Logs",
+      "size": 415934692,
+      "is_dir": true
+    },
+    {
+      "scan_status": "complete",
+      "name": "HTTPStorages",
+      "path": "/Users/me/Library/HTTPStorages",
+      "size": 90919900,
+      "is_dir": true
+    },
+    {
+      "scan_status": "complete",
+      "name": "Developer",
+      "path": "/Users/me/Library/Developer",
+      "size": 18257138,
+      "is_dir": true
+    }
+  ],
+  "large_files": [
+    {
+      "name": "Docker.raw",
+      "path": "/Users/me/Library/Containers/com.docker.docker/Data/vms/0/data/Docker.raw",
+      "size": 43819905024
+    },
+    {
+      "name": "pakchunk3-Mac.ucas",
+      "path": "/Users/me/Library/Containers/com.hottagames.nte/Data/Documents/HT/Content/PatchPaks/pakchunk3-Mac.ucas",
+      "size": 14379179360
+    },
+    {
+      "name": "pakchunk4-Mac.ucas",
+      "path": "/Users/me/Library/Containers/com.hottagames.nte/Data/Documents/HT/Content/PatchPaks/pakchunk4-Mac.ucas",
+      "size": 13706610080
+    }
+  ],
+  "total_size": 246439362683,
+  "total_files": 365148
+}

@@ -1,0 +1,41 @@
+{
+  "items": [
+    {
+      "id": "allday-today",
+      "summary": "Cumpleaños de Ana",
+      "start": { "date": "2026-10-31" },
+      "end": { "date": "2026-11-01" },
+      "htmlLink": "https://www.google.com/calendar/event?eid=1"
+    },
+    {
+      "id": "allday-tomorrow",
+      "summary": "Feriado",
+      "start": { "date": "2026-11-01" },
+      "end": { "date": "2026-11-02" },
+      "htmlLink": "https://www.google.com/calendar/event?eid=2"
+    },
+    {
+      "id": "late-night",
+      "summary": "Deploy nocturno",
+      "start": { "dateTime": "2026-10-31T23:00:00-03:00" },
+      "end": { "dateTime": "2026-11-01T01:00:00-03:00" },
+      "htmlLink": "https://www.google.com/calendar/event?eid=3"
+    },
+    {
+      "id": "declined",
+      "summary": "Reunión que rechacé",
+      "start": { "dateTime": "2026-10-31T10:00:00-03:00" },
+      "end": { "dateTime": "2026-10-31T11:00:00-03:00" },
+      "attendees": [{ "email": "me@gmail.com", "self": true, "responseStatus": "declined" }],
+      "htmlLink": "https://www.google.com/calendar/event?eid=4"
+    },
+    {
+      "id": "dentist",
+      "summary": "Dentista",
+      "location": "Av. Brasil 2500",
+      "start": { "dateTime": "2026-10-31T13:30:00-03:00" },
+      "end": { "dateTime": "2026-10-31T14:30:00-03:00" },
+      "htmlLink": "https://www.google.com/calendar/event?eid=5"
+    }
+  ]
+}

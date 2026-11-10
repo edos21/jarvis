@@ -1,0 +1,8 @@
+{
+  "files": [],
+  "references": [{ "path": "./tsconfig.server.json" }, { "path": "./tsconfig.web.json" }],
+  // Mirrors tsconfig.web.json: the shadcn CLI only reads the root tsconfig to find the alias.
+  "compilerOptions": {
+    "paths": { "@/*": ["./web/src/*"] }
+  }
+}

@@ -1,0 +1,7 @@
+  PID   UID STAT  %CPU COMM
+    1     0 Ss     0.6 /sbin/launchd
+  700     0 U      0.0 /usr/libexec/backupd
+  812   501 U      0.0 /Applications/Dropbox.app/Contents/MacOS/Dropbox
+  913   501 Z      0.0 (node)
+ 1024   501 R     97.4 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Helper (Renderer)
+ 1100     0 S      3.1 /usr/libexec/logd

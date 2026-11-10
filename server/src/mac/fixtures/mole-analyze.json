@@ -1,0 +1,110 @@
+{
+  "scan_status": "partial",
+  "path": "/",
+  "overview": true,
+  "entries": [
+    {
+      "scan_status": "partial",
+      "name": "User Library",
+      "path": "/Users/me/Library",
+      "size": 248427872256,
+      "is_dir": true
+    },
+    {
+      "scan_status": "partial",
+      "name": "Home",
+      "path": "/Users/me",
+      "size": 58117644673,
+      "is_dir": true
+    },
+    {
+      "scan_status": "complete",
+      "name": "Docker Data",
+      "path": "/Users/me/Library/Containers/com.docker.docker/Data",
+      "size": 43867111424,
+      "is_dir": true,
+      "insight": true
+    },
+    {
+      "scan_status": "complete",
+      "name": "Applications",
+      "path": "/Applications",
+      "size": 38016225280,
+      "is_dir": true
+    },
+    {
+      "scan_status": "partial",
+      "name": "System Library",
+      "path": "/Library",
+      "size": 5560000512,
+      "is_dir": true
+    },
+    {
+      "scan_status": "complete",
+      "name": "uv Cache",
+      "path": "/Users/me/.cache/uv",
+      "size": 5109141504,
+      "is_dir": true,
+      "insight": true,
+      "cleanable": true
+    },
+    {
+      "scan_status": "complete",
+      "name": "Homebrew Cache",
+      "path": "/Users/me/Library/Caches/Homebrew",
+      "size": 1298362368,
+      "is_dir": true,
+      "insight": true
+    },
+    {
+      "scan_status": "complete",
+      "name": "Spotify Cache",
+      "path": "/Users/me/Library/Application Support/Spotify/PersistentCache",
+      "size": 704139264,
+      "is_dir": true,
+      "insight": true
+    },
+    {
+      "scan_status": "complete",
+      "name": "System Logs",
+      "path": "/Users/me/Library/Logs",
+      "size": 417312768,
+      "is_dir": true,
+      "insight": true
+    },
+    {
+      "scan_status": "complete",
+      "name": "Old Downloads (90d+)",
+      "path": "/Users/me/Downloads",
+      "size": 1597440,
+      "is_dir": true,
+      "insight": true
+    },
+    {
+      "scan_status": "complete",
+      "name": "pip Cache",
+      "path": "/Users/me/Library/Caches/pip",
+      "size": 344064,
+      "is_dir": true,
+      "insight": true
+    },
+    {
+      "scan_status": "complete",
+      "name": "Xcode DerivedData",
+      "path": "/Users/me/Library/Developer/Xcode/DerivedData",
+      "size": 20480,
+      "is_dir": true,
+      "insight": true,
+      "cleanable": true
+    },
+    {
+      "scan_status": "complete",
+      "name": "Xcode Simulators",
+      "path": "/Users/me/Library/Developer/CoreSimulator/Devices",
+      "size": 4096,
+      "is_dir": true,
+      "insight": true
+    }
+  ],
+  "total_size": 401519776129
+}

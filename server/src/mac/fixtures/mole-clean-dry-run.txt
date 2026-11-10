@@ -1,0 +1,77 @@
+
+Clean Your Mac
+
+Dry Run Mode, Preview only, no deletions
+
+◎ System caches need sudo, run sudo -v && mo clean --dry-run for full preview
+
+⚙ Apple Silicon | Free space: 59.57GB
+⚙ Whitelist: 22 core patterns active
+
+➤ User essentials
+  ○ User app cache · 51 items, 6.69GB dry
+  ○ User app logs · 59 items, 369.9MB dry
+  ◎ Trash · skipped, grant Full Disk Access to your terminal
+
+➤ App caches
+  ○ Saved application states · 5 items, 119KB dry
+  ○ Media analysis temp files · 5 items, 4KB dry
+  ○ Geod temp files · 2756 items, 328.6MB dry
+  ○ macOS Help system cache · 7 items, 34.2MB dry
+
+➤ Browsers
+  ○ Chrome Service Worker, would clean 453.8MB, 0 protected
+  ○ Chrome Service Worker, would clean 74.0MB, 0 protected
+  ○ Chrome Service Worker, would clean 21.0MB, 0 protected
+  ○ GoogleUpdater CRX cache · 3 items, 793.2MB dry
+
+➤ Cloud & Office
+  ✓ Nothing to clean
+
+➤ Developer tools
+  ○ npm cache · would clean
+  ○ npm cache directory · 3 items, 208.7MB dry
+  ○ npm logs · 13 items, 53KB dry
+  ○ Corepack cache · would clean
+
+➤ Apps & utilities
+  ○ Discord cache · 306.8MB dry
+  ○ Zoom cache · 2 items, 14.9MB dry
+  ○ ChatGPT cache · 6 items, 11.6MB dry
+  ○ Claude logs · 17 items, 44.7MB dry
+
+➤ Virtualization
+  ✓ Nothing to clean
+
+➤ Application Support
+  ○ Application Support logs/caches · 765.1MB dry
+
+➤ App leftovers
+  ○ Orphaned Caches: io.sentry · 4KB dry
+  ○ Orphaned States: com.azul.zulu.java · 16KB dry
+  ○ Orphaned States: com.lemon.ccdownloader · 12KB dry
+  ○ Orphaned States: com.spotify.installer · 12KB dry
+
+➤ Apple Silicon updates
+  ✓ Nothing to clean
+
+➤ Device backups & firmware
+  ✓ Nothing to clean
+
+➤ Time Machine
+  ✓ Nothing to clean
+
+➤ Large files
+  ⊙ Docker storage · Images 18.48GB (18.17GB (98%) reclaimable) · Containers 126B (0B (0%) reclaimable) · Local Volumes 384.2MB (148.5MB (38%) reclaimable) · Build Cache 17.6GB (17.6GB reclaimable)
+  ⊙ Hugging Face cache · 6.93GB · ~/.cache/huggingface
+
+➤ Project artifacts
+  ⊙ Build artifacts · 24+ dirs, 344.6MB+ · mo purge
+
+
+======================================================================
+Dry run complete - no changes made
+Potential space: 17.95GB · 3866 items
+Detailed file list: /Users/me/.config/mole/clean-list.txt
+======================================================================
+

@@ -1,0 +1,16 @@
+<FlexQueryResponse queryName="Jarvis positions" type="AF">
+<FlexStatements count="1">
+<FlexStatement accountId="U0000000" fromDate="20261030" toDate="20261030" period="LastBusinessDay" whenGenerated="20261031;071502">
+<OpenPositions>
+<OpenPosition accountId="U0000000" currency="USD" assetCategory="STK" subCategory="ETF" symbol="CSPX" description="ISHARES CORE S&amp;P 500" listingExchange="LSEETF" position="10" markPrice="800.5" positionValue="8005" costBasisPrice="700.25" fifoPnlUnrealized="1002.5" reportDate="20261030" levelOfDetail="SUMMARY" />
+<OpenPosition accountId="U0000000" currency="EUR" assetCategory="STK" subCategory="ETF" symbol="VWCE" fxRateToBase="1.08" description="VANGUARD FTSE ALL-WORLD" listingExchange="IBIS2" position="20" markPrice="150" positionValue="3000" costBasisPrice="130" fifoPnlUnrealized="400" reportDate="20261030" levelOfDetail="SUMMARY" />
+<OpenPosition accountId="U0000000" currency="USD" assetCategory="STK" subCategory="COMMON" symbol="BRK B" description="BERKSHIRE HATHAWAY INC-CL B" listingExchange="NYSE" position="3" markPrice="500" positionValue="1500" costBasisPrice="480" fifoPnlUnrealized="60" reportDate="20261030" levelOfDetail="SUMMARY" />
+</OpenPositions>
+<CashReport>
+<CashReportCurrency accountId="U0000000" currency="BASE_SUMMARY" endingCash="1300" />
+<CashReportCurrency accountId="U0000000" currency="USD" endingCash="1250.75" />
+<CashReportCurrency accountId="U0000000" currency="EUR" endingCash="40" />
+</CashReport>
+</FlexStatement>
+</FlexStatements>
+</FlexQueryResponse>

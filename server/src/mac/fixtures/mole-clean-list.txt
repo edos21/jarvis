@@ -1,0 +1,66 @@
+# Mole Cleanup Preview - 2026-11-05 17:33:45
+#
+# How to protect files:
+# 1. Run mo clean --whitelist and press Enter to save your selections
+# 2. Append paths below to ~/.config/mole/whitelist, one per line
+# A saved file replaces optional defaults; built-in safety protections still apply.
+#
+# Example:
+#   /Users/*/Library/Caches/com.example.app
+#
+
+
+=== User essentials ===
+/Users/me/Library/Caches/AAProfilePicture_F5174E45-3555-4BCE-ABB5-AFC14287C228.png  # 168KB
+/Users/me/Library/Caches/AMSDataMigratorTool  # 0B
+/Users/me/Library/Caches/Animoji  # 446KB
+/Users/me/Library/Caches/ChatGPTHelper  # 2.3MB
+/Users/me/Library/Caches/Cypress  # 525.2MB
+/Users/me/Library/Caches/Docker Desktop  # 8KB
+
+=== App caches ===
+/Users/me/Library/Saved Application State/com.azul.zulu.java.savedState  # 16KB
+/Users/me/Library/Saved Application State/com.hnc.Discord.savedState  # 61KB
+/Users/me/Library/Saved Application State/com.install4j.5889-6375-8446-2021.22.savedState  # 16KB
+/Users/me/Library/Saved Application State/com.lemon.ccdownloader.savedState  # 12KB
+/Users/me/Library/Saved Application State/com.spotify.installer.savedState  # 12KB
+/Users/me/Library/Application Support/CrashReporter/Finder_FC810631-65EE-5F22-8930-F6CE60F302BD.plist  # 4KB
+
+=== Browsers ===
+/Users/me/Library/Application Support/Google/Chrome/Default/Service Worker/CacheStorage/2348e52d6de9218df880d9a88ad6a5d8c2c9555c/0534cc40-adcf-4dd6-8450-a4dd98b75e6a  # 12KB
+/Users/me/Library/Application Support/Google/Chrome/Default/Service Worker/CacheStorage/2348e52d6de9218df880d9a88ad6a5d8c2c9555c/f4f0c58b-7266-48b4-b4e5-887d2d1b22ed  # 12KB
+/Users/me/Library/Application Support/Google/Chrome/Default/Service Worker/CacheStorage/bfaeb59486396eed9d92017d1b603e59ce130a62/bcb92a5e-bbee-40fe-b68d-efa3e6e97790  # 45KB
+/Users/me/Library/Application Support/Google/Chrome/Default/Service Worker/CacheStorage/bfaeb59486396eed9d92017d1b603e59ce130a62/4c6b55d2-490d-477f-825d-b0f80f3aa738  # 504KB
+/Users/me/Library/Application Support/Google/Chrome/Default/Service Worker/CacheStorage/eadf114e35641d8a14aa9648d8e1c01b4b3bb3f0/1c0426b2-902b-4801-9600-2dda979fc678  # 2.8MB
+/Users/me/Library/Application Support/Google/Chrome/Default/Service Worker/CacheStorage/28da9c56fde4021055a681112c092453f74d8dd8/4270adc7-b242-4610-912c-5825987819c4  # 12KB
+
+=== Developer tools ===
+/Users/me/.npm/_cacache/content-v2  # 207.2MB
+/Users/me/.npm/_cacache/index-v5  # 1.5MB
+/Users/me/.npm/_cacache/tmp  # 0B
+/Users/me/.npm/_logs/2025-05-29T15_27_43_098Z-eresolve-report.txt  # 4KB
+/Users/me/.npm/_logs/2026-11-05T20_22_24_061Z-debug-0.log  # 4KB
+/Users/me/.npm/_logs/2026-11-05T20_22_41_813Z-debug-0.log  # 4KB
+
+=== Apps & utilities ===
+/Users/me/Library/Application Support/discord/Cache/Cache_Data  # 306.8MB
+/Users/me/Library/Caches/us.zoom.xos/WebKit  # 14.9MB
+/Users/me/Library/Caches/us.zoom.xos/fsCachedData  # 0B
+/Users/me/Library/Caches/com.openai.chat/async.log  # 0B
+/Users/me/Library/Caches/com.openai.chat/com.onevcat.Kingfisher.ImageCache  # 4.9MB
+/Users/me/Library/Caches/com.openai.chat/fsCachedData  # 0B
+
+=== Application Support ===
+/Users/me/Library/Application Support/Code/Code Cache/js  # 8KB
+/Users/me/Library/Application Support/Code/Code Cache/wasm  # 8KB
+/Users/me/Library/Application Support/Code/Code Cache/electron-preload  # 8KB
+/Users/me/Library/Application Support/Code/GPUCache/data_1  # 270KB
+/Users/me/Library/Application Support/Code/GPUCache/data_0  # 45KB
+/Users/me/Library/Application Support/Code/GPUCache/index  # 263KB
+
+# ============================================
+# Summary
+# ============================================
+# Potential cleanup: 17.95GB
+# Items: 3866
+# Categories: 6

@@ -1,0 +1,12 @@
+<FlexQueryResponse queryName="Jarvis nav" type="AF">
+<FlexStatements count="1">
+<FlexStatement accountId="U0000000" fromDate="20261027" toDate="20261030" period="Last365CalendarDays" whenGenerated="20261031;071530">
+<EquitySummaryInBase>
+<EquitySummaryByReportDateInBase accountId="U0000000" currency="USD" reportDate="20261030" cash="1500" stock="20500.5" total="22000.5" />
+<EquitySummaryByReportDateInBase accountId="U0000000" currency="USD" reportDate="20261027" cash="1500" stock="20000" total="21500" />
+<EquitySummaryByReportDateInBase accountId="U0000000" currency="USD" reportDate="20261028" cash="1500" stock="20100" total="21600" />
+<EquitySummaryByReportDateInBase accountId="U0000000" currency="USD" reportDate="20261029" cash="0" stock="0" total="" />
+</EquitySummaryInBase>
+</FlexStatement>
+</FlexStatements>
+</FlexQueryResponse>

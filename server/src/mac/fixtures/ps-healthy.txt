@@ -1,0 +1,5 @@
+  PID   UID STAT  %CPU COMM
+    1     0 Ss     0.6 /sbin/launchd
+  527     0 Ss     0.4 /usr/libexec/logd
+ 1533   501 S      0.2 /System/Library/CoreServices/Finder.app/Contents/MacOS/Finder
+ 2010   501 S      1.1 /Applications/Google Chrome.app/Contents/MacOS/Google Chrome

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Atom</title>
+<entry><title type="html">Apple ships &lt;b&gt;M6&lt;/b&gt;</title><link rel="alternate" href="https://example.com/c"/><link rel="replies" href="https://example.com/c#comments"/><updated>2026-10-30T14:00:00Z</updated></entry>
+<entry><title>Same story again</title><link href="https://example.com/b"/><published>2026-10-30T10:00:00Z</published></entry>
+</feed>
